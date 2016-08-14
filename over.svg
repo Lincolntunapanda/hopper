@@ -14,7 +14,7 @@
    id="svg3016"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Start.svg">
+   sodipodi:docname="over.png">
   <defs
      id="defs3018" />
   <sodipodi:namedview
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
